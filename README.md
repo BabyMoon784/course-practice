@@ -1,4 +1,4 @@
-# 课间题册
+# 本人自用学习通网课刷题网站
 
 **[打开刷题本](https://babymoon784.github.io/course-practice/)**
 
